@@ -1,0 +1,44 @@
+Done with fuzzy weight 5 yarn
+
+6mm hook
+The chain stitches at the beginning of each round do not count as a stitch. 
+The last stitch of each round is attached to the first stitch of the round with a slip stitch.
+This pattern can be adjusted in multiples of fours.
+
+Bottom Ribbing - Working in Rows
+
+ch 10
+
+Row 1: SC in the second ch from the hook and SC across (9).  Turn
+
+Row 2-5: ch 1, working in BLO, SC across (9).  Turn.
+
+When you finish the ribbed band, fold it so that Row 1 and 52 are on top of one another.  Working through the back loop of Row 52 and the front loop of Row 1, seam the two rows together by slip stitching across.  Do not cut your yarn.  Continue on to work in rounds along the “raw” edge of ribbed band.
+
+(remember the last stitch of each round is attached to the first stitch of the round with a slip stitch)
+
+Switch to 6.5mm
+Round 1: ch 1, SC around the top of the band working one stitch per row (52).  Attach to first SC of the round with a sl st.
+
+Round 2 (first round of celtic weave stitch): Ch 3,  *skip 2 sts, FPTr in next 2, working OVER your previous two stitches- FPTr in the two skipped stitches.  Repeat from * around.  This will create a round of crossed stitches (13 sets total, 52 sts).
+
+Round 3: Ch 3, skip 4 stitches, FPTr in next 2 sts, then working BEHIND the posts of your previous two stitches- FPTr in the 3rd and 4th stitch you skipped at the beginning of the round, *skip 2, FPTr in next 2 sts, then working BEHIND the posts of your previous two stitches FPTr in the two skipped stitches.  Repeat from * around. (52)
+
+Round 4: Ch 3, skip 4 stitches, FPTr in next 2 sts,  then working OVER the posts of your previous two stitches- FPTr in the 3rd and 4th stitch you skipped at the beginning of the round, *skip 2, FPTr in next 2 sts, then working OVER the posts of your previous two stitches FPTr in the two skipped stitches.  Repeat from * around. (52)
+
+Round 5-12: Repeat Rounds 3 (on odd rounds) and 4 (on even rounds).
+
+Round 13: ch 1, SC2Tog around (26).  Tie off yarn leaving a long (12”+) tail.  
+
+Using a yarn needle, weave the yarn back and forth through the stitches of Round 12.  Pull tight to cinch the top of the hat closed.  Make and attach a pom pom if desired.  Weave in all ends.
+
+To make Maud's back sock:
+
+6mm
+Follow ribbing instructions (48 rows)
+Switch to 8mm, follow instructions (1 round SC, begin weave pattern)
+11 rounds of weave, doing FPQuad instead of FPTr
+SC2Tog for round 13, do the weave, finish.
+Future revision: 44 rows, 48 is a little loose
+
+All versions: Adjust length to fit your pone

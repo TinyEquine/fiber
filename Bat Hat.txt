@@ -1,0 +1,188 @@
+EEEEEEEEEEEEEEEEEEEEE
+Large: Cast on 108 on 4.5mm circular
+Medium: Cast on 96 on 4.5mm circular
+Mona: Cast on 72 on 4.5mm circular
+
+Large:
+Color A
+Rnd 1-9: *k2p2*
+Rnd 10: p around
+Rnd 11: knit around
+Switch to 5mm circular
+Rnd 12-15: knit around
+Color B
+Rnd 16-27: knit around
+
+Rnd 28-38: Follow chart
+
+28: AAAA
+29: AAAA
+30: BBBB
+31: AAAB
+32: ABBB
+33: AABB
+34: ABBB
+35: AAAB
+36: BBBB
+37: AAAA
+38: AAAA
+
+Color B
+Rnd 39-49: knit around
+Switch to dpn
+Rnd 50: *k7, k2tog* repeat until end of round
+Rnd 51: knit around
+Rnd 52: *k6, k2tog* repeat until end of round
+Rnd 53: knit around
+Rnd 54: *k5, k2tog* repeat until end of round
+Rnd 55: knit around
+Rnd 56: *k4, k2tog* repeat until end of round
+Rnd 57: *k3, k2tog* repeat until end of round
+Rnd 58: *k2, k2tog* repeat until end of round
+Rnd 59: *k1, k2tog* repeat until end of round
+Rnd 60: *k2tog* repeat until end of round
+Rnd 61: *k1, k2tog* repeat until end of round
+
+Cut yarn, pull through remaining loops. Weave in ends.
+
+Medium:
+Color A
+Rnd 1-9: *k2p2*
+Rnd 10: p around
+Rnd 11: knit around
+Switch to 5mm circular
+Rnd 12-15: knit around
+Color B
+Rnd 16-26: knit around
+
+Rnd 26-38: Follow 1 for Bat, 2 for Filly (right to left)
+....1....2
+26: AAAA
+27: AAAA
+28: AAAA
+29: BBBB
+30: AAAB | AAAB AAAB AAAB ABAB AAAB AAAB
+31: ABBB | ABBB ABBB ABBB ABAB ABBB ABBB
+32: AABB
+33: ABBB | ABBB ABBB ABBB ABAB ABBB ABBB
+34: AAAB
+35: BBBB
+36: AAAA
+37: AAAA
+38: AAAA
+
+Color B
+Rnd 39-49: knit around
+Switch to dpn
+Rnd 50: *k6, k2tog* repeat until end of round
+Rnd 51: knit around
+Rnd 52: *k5, k2tog* repeat until end of round
+Rnd 53: knit around
+Rnd 54: *k4, k2tog* repeat until end of round
+Rnd 55: knit around
+Rnd 56: *k3, k2tog* repeat until end of round
+Rnd 57: *k2, k2tog* repeat until end of round
+Rnd 58: *k1, k2tog* repeat until end of round
+Rnd 59: *k2tog* repeat until end of round
+Rnd 60: *k2tog* repeat until end of round
+
+Cut yarn, pull through remaining loops. Weave in ends.
+
+
+Mona
+Medium:
+Color A
+Rnd 1-6: *k2p2*
+Rnd 7: p around
+Rnd 8: knit around
+Switch to 5mm circular
+Rnd 9-11: knit around
+Color B
+Rnd 12-18: knit around
+
+Rnd 19-29: Follow 1 for Bat, 2 for Filly (right to left)
+....1....2
+19: AAAA
+20: AAAA
+21: BBBB
+22: AAAB | AAAB AAAB AAAB ABAB AAAB AAAB
+23: ABBB | ABBB ABBB ABBB ABAB ABBB ABBB
+24: AABB
+25: ABBB | ABBB ABBB ABBB ABAB ABBB ABBB
+26: AAAB
+27: BBBB
+28: AAAA
+29: AAAA
+
+Color B
+Rnd 30: knit around
+Switch to dpn
+Rnd 31: *k6, k2tog* repeat until end of round
+Rnd 32: knit around
+Rnd 33: *k5, k2tog* repeat until end of round
+Rnd 34: knit around
+Rnd 35: *k4, k2tog* repeat until end of round
+Rnd 36: knit around
+Rnd 37: *k3, k2tog* repeat until end of round
+Rnd 38: *k2, k2tog* repeat until end of round
+Rnd 39: *k1, k2tog* repeat until end of round
+Rnd 40: *k2tog* repeat until end of round
+
+Cut yarn, pull through remaining loops. Weave in ends.
+
+
+----------
+Dithered
+Colors A/B/C
+
+Medium: Cast on 96 on 4.5mm circular
+
+Medium:
+Color A
+Rnd 1-9: *k2p2*
+Rnd 10: p around
+Rnd 11: knit around
+
+Switch to 5mm circular
+Rnd 12-21: knit around
+
+Rnd 22-49: Follow chart
+22: BABA
+23: AAAA
+24: BABA
+25: AAAA
+26: BABA
+27: ABAB
+28: BABA
+29: ABAB
+30: BBBB
+31: ABAB
+32: BBBB
+33: ABAB
+34-37: BBBB
+38: CBCB
+39: BBBB
+40: CBCB
+41: BBBB
+42: CBCB
+43: BCBC
+44: CBCB
+45: BCBC
+46: CCCC
+47: BCBC
+48: CCCC
+49: BCBC
+
+Color C
+Switch to DPN
+Rnd 50: *k6, k2tog* repeat until end of round
+Rnd 51: knit around
+Rnd 52: *k5, k2tog* repeat until end of round
+Rnd 53: knit around
+Rnd 54: *k4, k2tog* repeat until end of round
+Rnd 55: knit around
+Rnd 56: *k3, k2tog* repeat until end of round
+Rnd 57: *k2, k2tog* repeat until end of round
+Rnd 58: *k1, k2tog* repeat until end of round
+Rnd 59: *k2tog* repeat until end of round
+Rnd 60: *k2tog* repeat until end of round

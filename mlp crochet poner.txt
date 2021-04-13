@@ -1,0 +1,31 @@
+Pony Head
+4mm hook
+
+1: sc 6 in ML
+2: sc 2 in each sc around (12)
+3: *sc 2, sc* (18)
+4: *sc 2, sc in next 2* (24)
+5: *sc 2, sc in next 3* (30)
+6: *sc 2, sc in next 4* (36)
+7: *sc 2, sc in next 5*
+8-16: sc around
+17: *sc in next 5, dec*
+18: *sc in next 4, dec*
+19: *sc in next 3, dec*
+20: *sc in next 2, dec*
+Stuff head
+21: *sc, dec*
+SL to next, FO with tail
+
+Pony Body
+4mm hook
+Do as written
+(Maybe revise?)
+Attempting with 3.5mm hook
+
+Pony Ears
+4mm hook
+Do as written, or shorten by one round
+Try 3.5mm hook and remove one round
+
+ 
