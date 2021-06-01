@@ -1,0 +1,18 @@
+Filly Juice Paint Colors
+All colors Montana Gold
+
+Filly Green - Green Apple
+Eye / Box - Greenery
+Black - Shock 9000 Black
+Grey - Stealth
+White - Shock 9100 White
+Apple - Pink Pink
+
+Order:
+1 - Black Background (Shock 9000 Black)
+2 - Green Filly Body (Green Apple)
+3 - Grey Mane and Tail (Stealth)
+4 - Green Eye / Juice Box (Greenery)
+5 - White Eye / Juice Box (Shock 9100 White)
+6 - Red Apple (Pink Pink)
+7 - Black Outline (Shock 9000 Black)
