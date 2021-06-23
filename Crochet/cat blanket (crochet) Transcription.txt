@@ -1,10 +1,12 @@
 ﻿Cat Blanket
 worsted Acrylic
 Ch 90
-1 sc 2nd from hook , DC Next
-Repeat ending on a
-2 Turn, Ch 3, sc in next DC
+1: sc 2nd from hook , DC Next
+Repeat ending on a SC
+2: Turn, Ch 3, sc in next DC
 (DC, SC* end on Dc
-3 Turn, Ch 1, sc in first DC
+3: Turn, Ch 1, sc in first DC
 (DC,CC)*
 Repeat 2 & 3 until desired length
+
+CH60 for 16"
