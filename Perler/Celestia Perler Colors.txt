@@ -3,17 +3,17 @@ perler colors for celestia
 Blue Violet - Pastel Lavender
 Violet - Grape
 Pink - Flamingo
-Baby Pink - Peach
+Baby Pink - Toasted Marshmallow
 Emerald Green - Pastel Green
 Plum - Eggplant
-Copper - Spice
+Copper - Honey
 Nile Green - Mint
-Canary Dark - Honey
-Canary - Yellow
-Electric Blue - Sky
+Canary Dark - Yellow
+Canary - Pastel Yellow
+Electric Blue - Turquoise
 Plum LT - Plum
 Plum VY LT - Orchid
 Plum UL LT - Cotton Candy
 Peacock Blue - Teal
-Bright Turquoise - Turquoise
+Bright Turquoise - Sky
 White - White

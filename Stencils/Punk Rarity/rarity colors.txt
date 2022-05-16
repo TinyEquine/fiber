@@ -8,14 +8,14 @@ G6160 Pine
 G4210 Viola
 G4260 Black Purple
 G4150 Lavender
-G4220 Lilac
+G4300 Louie Lilac
 
 G7000 Pebble (Body White)
 Shock 9100 White (Eye White)
 G7020 Wall (Body Outline)
 G6210 CAN2 COOL CANDY (Eyeshadow)
 Shock 5010 Blue (Iris)
-G6230 Pool (Iris)
+G6230 Himalaya (Iris)
 G6250 Dolphins (Iris)
 
 Shock 9000 Black
