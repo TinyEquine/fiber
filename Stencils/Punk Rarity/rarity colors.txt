@@ -6,9 +6,9 @@ G1220 Yellow Cab
 G6130 Malachite
 G6160 Pine
 G4210 Viola
-G4260 Black Purple
-G4150 Lavender
-G4300 Louie Lilac
+G4260 Black Purple (main purple outline)
+G4150 Lavender (all inner mane)
+G4300 Louie Lilac (alt purple outline)
 
 G7000 Pebble (Body White)
 Shock 9100 White (Eye White)
