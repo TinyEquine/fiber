@@ -8,8 +8,7 @@ R2: [inc] (10)
 R3: [sc, inc] (15)
 R4-R6: [sc] (15)
 R7: [sc, dec] (10)
-Safety Eyes: 3rd round, 5 stitches apart
 R8: [dec] (5)
 R9: [inc] (10)
 R10: [sc, inc] (15)
-Fasten off, leave tail for sewing
+Fasten off, hide tail. Or leave a longer tail and seam the back fin. Or slip stitch the tail and then fasten off, whatever you like.
